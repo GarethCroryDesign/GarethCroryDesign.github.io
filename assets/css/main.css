@@ -2126,10 +2126,10 @@
 	}
 
 		#contact .box {
-			-moz-transition: -moz-transform .4s ease;
-			-webkit-transition: -webkit-transform .4s ease;
-			-ms-transition: -ms-transform .4s ease;
-			transition: transform .4s ease;
+			-moz-transition: -moz-transform 3s ease;
+			-webkit-transition: -webkit-transform 3s ease;
+			-ms-transition: -ms-transform 3s ease;
+			transition: transform 3s ease;
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
