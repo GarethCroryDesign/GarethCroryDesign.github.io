@@ -476,11 +476,11 @@
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		font-family: "Roboto", "Source Sans Pro", "sans-serif";
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #545454;
 		letter-spacing: 0.025em;
 	}
 
@@ -526,7 +526,7 @@
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 900;
+		font-weight: 500;
 		color: inherit;
 		letter-spacing: -0.0325em;
 	}
@@ -551,7 +551,7 @@
 	}
 
 	strong, b {
-		font-weight: 900;
+		font-weight: 800;
 		color: inherit;
 	}
 
@@ -564,7 +564,7 @@
 		-webkit-transition: color 0.7s ease-in-out;
 		-ms-transition: color 0.7s ease-in-out;
 		transition: color 0.7s ease-in-out;
-		color: #98c593;
+		color: #545454;
 	}
 
 	sub {
@@ -598,7 +598,7 @@
 
 	.box {
 		background: #ffffff;
-		color: #39454b;
+		color: #545454;
 		padding: 2em;
 	}
 
